@@ -1,0 +1,6 @@
+client:
+  pokemon:
+    url: https://pokeapi.co/api/v2/
+    connectionTimeoutInMilliseconds: 500
+    readTimeoutInMilliseconds: 500
+    writeTimeoutInMilliseconds: 500
